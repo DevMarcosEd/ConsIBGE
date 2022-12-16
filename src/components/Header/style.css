@@ -1,0 +1,20 @@
+.header-Container {
+    width: 100%;
+    background-color: #0A66C2;
+    height: 140px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar {
+    width: 100%;
+    max-width: 1080px;
+    padding: 0px 40px 0px 40px;
+}
+
+.navbar a {
+    font-size: 36px;
+    text-decoration: none;
+    color: #fff;
+}
